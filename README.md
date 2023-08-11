@@ -1,4 +1,4 @@
-# knowledge-base
+# 知识库
 A place to keep information organized
 
 - [快捷输入(未整理)](https://github.com/zhaoyanmit/knowledge-base/wiki/%E5%BF%AB%E6%8D%B7%E8%BE%93%E5%85%A5)
